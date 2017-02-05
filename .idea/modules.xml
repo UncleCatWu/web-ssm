@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web-ssm.iml" filepath="$PROJECT_DIR$/web-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-ssm-api/web-ssm-api.iml" filepath="$PROJECT_DIR$/web-ssm-api/web-ssm-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-ssm-entity/web-ssm-entity.iml" filepath="$PROJECT_DIR$/web-ssm-entity/web-ssm-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-ssm-service/web-ssm-service.iml" filepath="$PROJECT_DIR$/web-ssm-service/web-ssm-service.iml" />
+    </modules>
+  </component>
+</project>
