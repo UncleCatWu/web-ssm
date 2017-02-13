@@ -199,10 +199,6 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
-        <!--<dependency>
-            <groupId>ssm.dao.UserMapper</groupId>
-            <artifactId>UserMapper</artifactId>
-        </dependency>-->
     </dependencies>
 
     <build>

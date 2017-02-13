@@ -1,4 +1,4 @@
-package ssm.entity;
+package ssm;
 
 /**
  * Created by JacieWu on 2017/1/28.
